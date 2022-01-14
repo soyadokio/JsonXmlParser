@@ -13,7 +13,7 @@ title: Json&Xml Parser
 
 # Json&Xml Parser
 
-[![SoyaDokio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdokio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![SoyaDokio's GitHub stats](https://github-readme-stats.vercel.app/api?username=sdokio&bg_color=30,e96443,904e95&title_color=fff&icon_color=fff&text_color=fff&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 前言
 虽然awt、swing的时代已经过去，但领导要求了，加之对Java的GUI能力有一份好奇，索性就探索一二。
